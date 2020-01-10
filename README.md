@@ -1,15 +1,15 @@
 # Pizza-Ordering-System
 A straightforward pizza ordering system that utilizes class inheritance and polymorphism. There are three files:
 
-MainPizza.java
+[MainPizza.java](src/MainPizza.java)
           
               The control program
 
-Pizza.java
+[Pizza.java](src/Pizza.java)
 
               The Pizza class definiton
               
-Cheese.java
+[Cheese.java](src/Cheese.java)
 
                Extends the Pizza class
 
